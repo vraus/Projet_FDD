@@ -2,7 +2,7 @@
 
 > **Projet FDD**
 >
-> **Auhors :** ***Hadrien Belleville*** et ***Elliot Carron***
+> **Auhors :** ***Hadrien Belleville*** et ***Elliot Caron***
 >
 > **Date :** ***19/09/2024***
 
