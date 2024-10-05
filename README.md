@@ -6,8 +6,11 @@
 >
 > **Date :** ***19/09/2024***
 
-## Pistes
+## Installation du venv
 
-### Réchauffement Climatique
-
-### Modèle de prédiction du nombre de nouveaux L1
+```bash
+cd Project
+python -m venv myenv
+source myenv/bin/activate
+pip install dash plotly pandas scikit-learn requests numpy scikit-learn-extra Levenshtein nltk
+```
